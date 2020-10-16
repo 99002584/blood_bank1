@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1400009992 source:f:\computer science & engineering\cb\donate blood save life\main.cpp
+	<iostream>
+	<windows.h>
+	"Data_base.h"
+	<cstring>
+
+1601820215 
+
+1396106406 f:\computer science & engineering\cb\donate blood save life\name.h
+	<string>
+	<iostream>
+
+1396106404 f:\computer science & engineering\cb\donate blood save life\roll.h
+	<string>
+	<iostream>
+
+1396554851 f:\computer science & engineering\cb\donate blood save life\donar.h
+	<string>
+	<iostream>
+	"Roll.h"
+	"Name.h"
+	"Department.h"
+	"Blood_Group.h"
+	"Contact.h"
+
+1601498848 "
+
+1396106371 f:\computer science & engineering\cb\donate blood save life\department.h
+	<string>
+	<iostream>
+
+1396106357 f:\computer science & engineering\cb\donate blood save life\blood_group.h
+	<string>
+	<iostream>
+
+1396106355 f:\computer science & engineering\cb\donate blood save life\contact.h
+	<string>
+	<iostream>
+
+1400009906 f:\computer science & engineering\cb\donate blood save life\data_base.h
+	<string>
+	"Donar.h"
+	<vector>
+	<windows.h>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1601543812 source:/home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/main.cpp
+	<iostream>
+	"Data_base.h"
+	<cstring>
+
+1601543872 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/Data_base.h
+	<string>
+	"Donar.h"
+	<vector>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1601543848 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/Donar.h
+	<string>
+	<iostream>
+	"Roll.h"
+	"Name.h"
+	"Department.h"
+	"Blood_Group.h"
+	"contact.h"
+
+1484041464 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/Roll.h
+	<string>
+	<iostream>
+
+1484041464 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/Name.h
+	<string>
+	<iostream>
+
+1484041464 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/Department.h
+	<string>
+	<iostream>
+
+1484041464 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/Blood_Group.h
+	<string>
+	<iostream>
+
+1484041464 /home/user/Downloads/SIMPLE_BLOOD_BANK_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE/Simple Bloodbank C++/SimpleBloodBank/contact.h
+	<string>
+	<iostream>
+
+1601498812 source:c:\users\girish\downloads\simplebloodbank\main.cpp
+	<iostream>
+	"Data_base.h"
+	<cstring>
+
+1601820570 c:\users\girish\downloads\simplebloodbank\data_base.h
+	<string>
+	"Donar.h"
+	<vector>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1601498848 c:\users\girish\downloads\simplebloodbank\donar.h
+	<string>
+	<iostream>
+	"Roll.h"
+	"Name.h"
+	"Department.h"
+	"Blood_Group.h"
+	"contact.h"
+
+1483992864 c:\users\girish\downloads\simplebloodbank\roll.h
+	<string>
+	<iostream>
+
+1601814932 c:\users\girish\downloads\simplebloodbank\name.h
+	<string>
+	<iostream>
+
+1483992864 c:\users\girish\downloads\simplebloodbank\department.h
+	<string>
+	<iostream>
+
+1483992864 c:\users\girish\downloads\simplebloodbank\blood_group.h
+	<string>
+	<iostream>
+
+1601820215 c:\users\girish\downloads\simplebloodbank\contact.h
+	<string>
+	<iostream>
+
+1601847660 source:/home/user/Downloads/BloodBank_miniproject/main.cpp
+	<iostream>
+	"Data_base.h"
+	<cstring>
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/Data_base.h
+	<string>
+	"Donar.h"
+	<vector>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/Donar.h
+	<string>
+	<iostream>
+	"Roll.h"
+	"Name.h"
+	"Department.h"
+	"Blood_Group.h"
+	"contact.h"
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/Roll.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/Name.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/Department.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/Blood_Group.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Downloads/BloodBank_miniproject/contact.h
+	<string>
+	<iostream>
+
+1601847660 source:/home/user/Desktop/linux material/BloodBank_miniproject/main.cpp
+	<iostream>
+	"Data_base.h"
+	<cstring>
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/Data_base.h
+	<string>
+	"Donar.h"
+	<vector>
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/Donar.h
+	<string>
+	<iostream>
+	"Roll.h"
+	"Name.h"
+	"Department.h"
+	"Blood_Group.h"
+	"contact.h"
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/Roll.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/Name.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/Department.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/Blood_Group.h
+	<string>
+	<iostream>
+
+1601847660 /home/user/Desktop/linux material/BloodBank_miniproject/contact.h
+	<string>
+	<iostream>
+
